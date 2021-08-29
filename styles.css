@@ -1,0 +1,18 @@
+#input{
+    padding: 5rem;
+    height: 60%;
+    width: 80%;
+    margin: auto;
+}
+#check-inc-button{
+
+   margin-top: 2rem;
+}
+
+#output{
+    padding: 5rem;
+    height: 60%;
+    width: 80%;
+    margin-top: 2rem;
+    border: 1px  solid black;
+}
